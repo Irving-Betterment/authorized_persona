@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    authorized_persona (1.0.0)
+    authorized_persona (0.13.0)
       railties (>= 7.2, < 8.1)
 
 GEM
